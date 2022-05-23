@@ -1,0 +1,17 @@
+.todoForm{
+  /* Sample */
+  background-color: rgb(244, 241, 238);
+  /* border: 1px solid red; */
+  text-align: center;
+  margin-top: 300px;
+  font-size: x-large;
+  height: 300px;
+}
+.todoForm>h1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.todoForm>button{
+ background-color: black;
+ color: white;
+
+}
